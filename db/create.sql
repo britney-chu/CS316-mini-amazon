@@ -6,3 +6,26 @@ CREATE TABLE Users (
     address VARCHAR(255) NOT NULL,
     balance INT NOT NULL
 );
+
+CREATE TABLE Purchases (
+
+);
+
+CREATE TABLE Products (
+    
+);
+
+CREATE TABLE Cart (
+    
+);
+
+CREATE TABLE Inventory (
+    
+);
+
+CREATE TABLE Review (
+    
+);
+
+
+
