@@ -1,0 +1,11 @@
+id,email,type_user,password,name,address,balance
+1,vincentprice@gmail.com,Buyer,bluedevils,Vincent Price,"101 Chapel Dr, Durham, NC 27705",677.9
+2,ola@gmail.com,Seller,bubblesort,Owen Astrachan,"200 Tesla Rd, Chapel Hill, NC 27514",1234.56
+3,coachk@gmail.com,Buyer+Seller,millionaire,Mike Krzyzewski,"404 Towerview Dr, Durham, NC 27708",4567.89
+4,melindag@gmail.com,Buyer,ilovebilly,Melinda Gates,"500 Fifth Ave, Seattle, WA 98109",892.33
+5,timceo@gmail.com,Buyer,crunchy01,Tim Cook,"4200 Orchard Ln, Cupertino, CA 95014",534.29
+6,ultabeauty@gmail.com,Buyer,moomoo,Ulta,"1368 Campus Dr, Los Angeles, CA 95014",25.75
+7,bigpharma@gmail.com,Seller,dukemed,Gurley's Pharmacy,"1541 Ocean Ave, Los Angeles, CA 90401",342.45
+8,getedeals@gmail.com,Buyer,freshman,Best Buy,"330 Towerview Rd, Durham, NC 27708",0
+9,andfitch@gmail.com,Seller,basketball,Abercrombie,"5299 Hammock Dr, Coral Gables, FL 33134",138.56
+10,stopdropread@gmail.com,Buyer,hoops#30,Barnes & Noble,"52 Poplar Tent Rd, Richmond, VA 25508",765.32

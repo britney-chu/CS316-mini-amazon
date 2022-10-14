@@ -1,0 +1,9 @@
+pid,seller_id,category,short_name,longer_description,product_image,price,quantity_available
+1,10,Books,Harry Potter and the Sorcerer's Stone,First book in the best-selling Harry Potter series.,sorc.jpg,$25.99,100
+2,10,Books,Harry Potter and the Goblet of Fire,Fourth book in the best-selling Harry Potter series.,goblet.jpg,$29.99,90
+3,9,Clothes,Pink Cowboy Hat,"Cute bedazzled pink cowboy hat, great for Halloween!",cowboy.jpg,$17.34,79
+4,9,Clothes,Nashville Party Cowboy Boots,Brown faux-leather cowboy boots.,boots.jpg,$68.86,85
+5,8,Electronics,FitBit SmartWatch 180,"Wrist fitness tracker to track calories, steps, and heart rate.",fitbit.jpg,$149.95,100
+6,8,Electronics,FitBit Replacement Band,"Easy to attach band, fits most models made after 2018.",fit_band.jpg,$74.50,299
+7,7,Health,NatureMade Vitamin D Gummies,Essential vitamin for good bone health.,vitd.jpg,$37.80,103
+8,6,Beauty,L'Oreal Lash Paradise Mascara,"Enhances volume, resists clumping, and smudge free.",lashes.jpg,$12.50,500
